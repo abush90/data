@@ -1,3 +1,7 @@
+git add data.csv
+git commit -m "Upload data.csv"
+git push origin main
+
 Secret,Known
 82,70
 90,37
